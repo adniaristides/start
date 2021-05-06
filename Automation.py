@@ -2,7 +2,7 @@ import pyautogui
 import pyperclip
 import time
 
-pyautogui.alert("vamos começar")
+pyautogui.alert("Let's Begin")
 
 pyautogui.PAUSE = 1
 
@@ -23,4 +23,4 @@ time.sleep(2)
 pyautogui.click(x=982, y=884,clicks=1)
 
 
-pyautogui.alert ("Finalizado")
+pyautogui.alert ("Done")
