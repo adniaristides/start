@@ -6,6 +6,6 @@ Here you will find:
   - Automation with Pyautogui
   - Scrapping with Selenium
   - Data analisis with Pandas and Plotly
-  - Preditive Model with Sklearn
+  - Preditive Modeling with Sklearn
   
   Thank you for coming!
