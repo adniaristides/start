@@ -9,3 +9,5 @@ Here you will find:
   - Preditive Modeling with Sklearn
   
   Thank you for coming!
+
+*Datasets aquired from Hashtag Treinamentos*
