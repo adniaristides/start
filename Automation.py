@@ -7,7 +7,7 @@ pyautogui.alert("Let's Begin")
 pyautogui.PAUSE = 1
 
 pyautogui.press('win')
-pyautogui.write('edge')
+pyautogui.write('chrome')
 pyautogui.press('enter')
 
 time.sleep(2)
